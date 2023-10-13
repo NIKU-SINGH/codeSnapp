@@ -21,7 +21,7 @@ export const explainCode = async (codePrompt: string): Promise<string | null> =>
   // Use the OpenAI API to generate an explanation
   const response = await openai.chat.completions.create({
     model: "gpt-3.5-turbo",
-    max_tokens: 50,
+    // max_tokens: 50,
     messages: [{ role: "user", content: prompt }],
   });
 
