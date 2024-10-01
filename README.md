@@ -60,4 +60,5 @@ This GitHub App should improve code collaboration, automate code execution, and 
 
 ## 📹 Demo Video
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ad3b3a4cc9b14d609c6ed7e2c90d3a74?sid=7e6b2d18-8018-4134-a267-b0c97c841142" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/ad3b3a4cc9b14d609c6ed7e2c90d3a74?sid=7e6b2d18-8018-4134-a267-b0c97c841142" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+](https://www.loom.com/share/ad3b3a4cc9b14d609c6ed7e2c90d3a74?sid=11149d6a-c015-416f-8008-60e35bb0eec8)
