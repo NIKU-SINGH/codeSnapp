@@ -35,9 +35,6 @@ CodeSnapp, your AI-driven GitHub bot, is your code's new best friend. Install it
 
 ## 💼 About the Project
 
-![Codemate logo](https://i.ibb.co/NypN4R2/Codemate-dark-2.png)
-
-This project is a submission to the ATLANs Backend Intern Problem assignment
 
 ## 🤔 Problem Statement
 
